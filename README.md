@@ -12,6 +12,7 @@ This repository contains a set of Python programs designed to explore the use of
     Formatting numbers with a dollar sign.
 
 **Example Output:**
+
 ***Input: $100, 15% → Output: Leave $15.00***
 
 ### **2. Playback.py**
@@ -24,6 +25,7 @@ This repository contains a set of Python programs designed to explore the use of
     Output customization to simulate real-world applications.
 
 **Example Output:**
+
 ***Input: "Hello World" → Output: "Hello...world"***
 
 ### **3. Faces.py**
@@ -36,6 +38,7 @@ This repository contains a set of Python programs designed to explore the use of
     Enhancing user interaction with string replacements.
 
 **Example Output:** 
+
 ***Input: ":)" → Output: 😊***
 
 ### **4. Indoor.py**
@@ -47,6 +50,7 @@ This repository contains a set of Python programs designed to explore the use of
 
 
 **Example Output:**
+
 ***Input: "HELLO THERE" → Output: "hello there"***
 
 ### **5. Einstein.py**
@@ -60,6 +64,7 @@ This repository contains a set of Python programs designed to explore the use of
     Formatting output in exponential notation.
 
 **Example Output:**
+
 ***Input: Mass = 2 → Output: Energy = 1.80e+17 joules***
 
 Feel free to fork or clone this repository and contribute to these problem sets by adding more scenarios or enhancing the existing ones.
