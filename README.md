@@ -32,7 +32,7 @@ This repository contains a set of Python programs designed to explore the use of
 
 **Sample Input:**
 
-    Please eneter your text: Hello World
+    Please enter your text: Hello World
 
 
 **Expected Output:**
