@@ -1,7 +1,7 @@
 # Mastering Functions and Variables in Python: A Collection of Solved Problem Sets
 This repository contains a set of Python programs designed to explore the use of functions and variables in problem-solving. These exercises demonstrate how functions and variables can simplify code and improve logic flow.
 
-## **Problem Sets**
+## **Project Overview**
 ### **1. Tip.py**
 **Description:** A program that calculates the tip amount based on the user's bill and desired tip percentage. It ensures accurate and user-friendly handling of numeric input and percentages.
 
